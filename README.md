@@ -7,5 +7,7 @@ The [first notebook](notebooks/Access Ichthys3D Seismic Data
 .ipynb) shows how to easily access, slice and visualize the Ichthys3D seismic data from the cloud.  After this step, the data is ready to stream directly to your machine learning models.
  
 
+**References**
 Bormann P., Aursand P., Dilib F., Dischington P., Manral S. 2020. 2020 FORCE Machine Learning Contest. https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
+
 The Ichthys Seismic dataset is provided courtesy of Geoscience Australia and is available under CC BY 4.0 license
