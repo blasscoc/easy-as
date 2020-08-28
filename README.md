@@ -3,7 +3,7 @@ We believe creating AI/ML for geophysics should be easy-as.
 
 This is a series of tutorial notebooks that demonstrates how to get started doing machine learning on seismic data.  It is inspired by the [Force 2020 Machine Learning Contest](https://xeek.ai/challenges/force-seismic/overview).
 
-The [first notebook](./notebooks/Access\ Ichthys3D\ Seismic\ Data.ipynb) shows how to easily access, slice and visualize the Ichthys3D seismic data from the cloud.  After this step, the data is ready to stream directly to your machine learning models.
+The [first notebook](./notebooks/Access%20Ichthys3D%20Seismic%20Data.ipynb) shows how to easily access, slice and visualize the Ichthys3D seismic data from the cloud.  After this step, the data is ready to stream directly to your machine learning models.
  
 
 **References**
